@@ -1,1 +1,6 @@
-h1 {color:blue;}
+body {background-color:#2C64BF;}
+
+#content { 
+	position:fixed;
+    top: 50%;
+    left: 50%;}
